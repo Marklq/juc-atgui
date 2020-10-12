@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="adad86ea-7c2f-420e-9508-12f13a2b6bc6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1iRB5u8Pn5BXyjoietxmiLYPUng" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../shiro" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dell\Desktop\juc-atguigu\src\main\resources" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.dd" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HelloGC">
+    <configuration name="DirectBufferMemoryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dd.jvm.oom.DirectBufferMemoryDemo" />
+      <module name="juc-atguigu" />
+      <option name="VM_PARAMETERS" value="-Xms10m -Xmx10m -XX:+PrintGCDetails -XX:MaxDirectMemorySize=5m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dd.jvm.oom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GCOverheadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dd.jvm.oom.GCOverheadDemo" />
+      <module name="juc-atguigu" />
+      <option name="VM_PARAMETERS" value="-Xms10m -Xmx10m -XX:+PrintGCDetails -XX:MaxDirectMemorySize=5m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dd.jvm.oom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloGC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dd.jvm.HelloGC" />
+      <module name="juc-atguigu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dd.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MetaspaceOOMT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dd.jvm.oom.MetaspaceOOMT" />
+      <module name="juc-atguigu" />
+      <option name="VM_PARAMETERS" value="-XX:MetaspaceSize=10m -XX:MaxMetaspaceSize=10m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dd.jvm.oom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OutOfMemoryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dd.jvm.oom.OutOfMemoryDemo" />
+      <module name="juc-atguigu" />
+      <option name="VM_PARAMETERS" value="-Xms5m -Xmx5m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dd.jvm.oom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.OutOfMemoryDemo" />
+      <item itemvalue="Application.GCOverheadDemo" />
+      <item itemvalue="Application.DirectBufferMemoryDemo" />
+      <item itemvalue="Application.MetaspaceOOMT" />
+      <item itemvalue="Application.HelloGC" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloGC" />
+        <item itemvalue="Application.MetaspaceOOMT" />
+        <item itemvalue="Application.DirectBufferMemoryDemo" />
+        <item itemvalue="Application.GCOverheadDemo" />
+        <item itemvalue="Application.OutOfMemoryDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adad86ea-7c2f-420e-9508-12f13a2b6bc6" name="Default Changelist" comment="" />
+      <created>1601860343214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601860343214</updated>
+      <workItem from="1601860344873" duration="80095000" />
+      <workItem from="1602325229486" duration="20777000" />
+      <workItem from="1602470735671" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="198" key="#Inspections" timestamp="1602407164806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1602407164806" />
+    <state x="528" y="241" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602423500680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="528" y="241" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602423500680" />
+    <state x="740" y="224" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1602336558683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="224" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602336558683" />
+    <state x="765" y="224" key="#com.intellij.ide.util.MemberChooser" timestamp="1602322150810">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="224" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602322150810" />
+    <state x="573" y="441" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1601952451672">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="573" y="441" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601952451672" />
+    <state x="690" y="265" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1602220429336">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="265" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602220429336" />
+    <state x="657" y="382" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1602310169183">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="657" y="382" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1602310169183" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1602470754036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602470754036" />
+    <state width="1877" height="441" key="GridCell.Tab.0.bottom" timestamp="1602432703202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="441" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602432703202" />
+    <state width="1877" height="441" key="GridCell.Tab.0.center" timestamp="1602432703202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="441" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602432703202" />
+    <state width="1877" height="441" key="GridCell.Tab.0.left" timestamp="1602432703202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="441" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602432703202" />
+    <state width="1877" height="441" key="GridCell.Tab.0.right" timestamp="1602432703202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="441" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602432703202" />
+    <state width="1877" height="344" key="GridCell.Tab.1.bottom" timestamp="1602325069961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602325069961" />
+    <state width="1877" height="344" key="GridCell.Tab.1.center" timestamp="1602325069961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602325069961" />
+    <state width="1877" height="344" key="GridCell.Tab.1.left" timestamp="1602325069961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602325069961" />
+    <state width="1877" height="344" key="GridCell.Tab.1.right" timestamp="1602325069961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602325069961" />
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog" timestamp="1602413178787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602413178787" />
+    <state x="752" y="199" key="SettingsEditor" timestamp="1602323018208">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="752" y="199" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602323018208" />
+    <state x="690" y="277" key="extract.method.dialog" timestamp="1602319228504">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="277" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602319228504" />
+    <state x="334" y="179" key="new project wizard" timestamp="1602160728094">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="179" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1602160728094" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1602407044186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602407044186" />
+  </component>
+</project>
